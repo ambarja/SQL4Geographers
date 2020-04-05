@@ -1,13 +1,13 @@
 <img alt="SpatialSQL" src="https://github.com/barja8/IntroSQL/blob/master/icon/icon_sql.png" align="right" width = 15%/>
 
-# **Introducción a Spatial SQL ** 
+# Introducción a Spatial SQL 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
 
 
 # Autores: 
-- <strong>Antony Barja</strong><a href='https://orcid.org/0000-0001-5921-2858' target='orcid.widget'><img src = 'https://members.orcid.org/sites/default/files/vector_iD_icon.svg', class= 'orcid', alt = 'ORCID'></a>
+- <strong>Antony Barja</strong>. Contributor. <a href='https://orcid.org/0000-0001-5921-2858' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
 - 
 
 
