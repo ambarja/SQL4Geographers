@@ -1,4 +1,4 @@
-<img alt="SpatialSQL" src="./icon/sp_sql.png" align="right" width = 13%/>
+<img alt="SpatialSQL" src="./icon/sp_sql.png" align="right" width = 12%/>
 
 # Introducción a Spatial SQL 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
