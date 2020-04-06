@@ -1,9 +1,10 @@
 <img alt="SpatialSQL" src="./icon/sp_sql.png" align="right" width = 12%/>
 
 # Introducción a Spatial SQL 
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
-[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
+
 
 # Autores: 
 - <strong> Lesly Bautista </strong>.Autora. <a href='https://orcid.org/0000-0003-3523-8687' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
