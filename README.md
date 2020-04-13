@@ -19,11 +19,11 @@ en la parte inferior encontrarás una serie de referencias alternativas que podr
  - Aprender la sintaxis básica de **SQL** y la estructura de las bases de datos relacionales.
  - Realizar operaciones comunes en **SQL** que incluyen ordenar,filtrar,calcular valores, agregar, combinar datos y limpiar datos (remplazar valores faltantes).
  - Combinar comandos para contruir una consulta para responder una pregunta específica.
- - Importar datos a una base de datos de **PostgreSQL** y trabajar con **PostGIS**
- - Comprender la diferencia entre consultar de atributos y consultas de geometría
- - Ver tablas y vistas espaciales con **QGIS**
- - Crear capas y tablas virtuales en **QGIS** con comandos SQL
- - Usar la interfaz de **Rstudio** para hacer consultas espaciales 
+ - Crear una base de datos en **PostgreSQL** y trabajar con **PostGIS**.
+ - Comprender la diferencia entre consultar de atributos y consultas de geometría.
+ - Ver tablas y vistas espaciales con **QGIS**.
+ - Crear capas y tablas virtuales en **QGIS** con comandos SQL.
+ - Usar la interfaz de **Rstudio** para hacer consultas espaciales. 
   
 
 ## Referencias utilizadas:
