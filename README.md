@@ -1,6 +1,6 @@
 <img alt="SpatialSQL" src="./Img/icon/sql.png" align="right" width = 10%/>
 
-# Introducción a Spatial SQL 
+# Introducción a SQL para Geográfos
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
