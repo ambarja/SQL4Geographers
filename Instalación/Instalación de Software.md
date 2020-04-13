@@ -1,4 +1,4 @@
-<img src="../icon/gnu_linux.png" align="right" width = 15% />
+<img src="../icon/gnu_linux.png" align="right" width = 20% />
 
 # Instalación de softwares en GNU/Linux
 
