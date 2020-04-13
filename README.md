@@ -11,19 +11,19 @@
 - <strong> Lesly Bautista </strong>.Contribuidora. <a href='https://orcid.org/0000-0003-3523-8687' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
 
 Este repositorio ha sido creado con la finalidad de consolidar nuevos aprendizajes y transmitir conocimientos a todos los que esten interesados en intruirse en los conceptos básicos de la sintaxis de **SQL** 
-, está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente a la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado a las consultas de bases de datos relacionales; finalmente
+, está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente en la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado en las consultas de "bases de datos relacional"; finalmente
 en la parte inferior encontrarás una serie de referencias alternativas que podrían complementar tu ruta de aprendizaje.
 
 
 # Objetivos:
- - Aprender la sintaxis básica de **SQL** y la estructura de las bases de datos relacionales.
- - Realizar operaciones comunes en **SQL** que incluyen ordenar,filtrar,calcular valores, agregar, combinar datos y limpiar datos (remplazar valores faltantes).
- - Combinar comandos para contruir una consulta para responder una pregunta específica.
- - Crear una base de datos en **PostgreSQL** y trabajar con **PostGIS**.
- - Comprender la diferencia entre consultar de atributos y consultas de geometría.
- - Ver tablas y vistas espaciales con **QGIS**.
- - Crear capas y tablas virtuales en **QGIS** con comandos SQL.
- - Usar la interfaz de **Rstudio** para hacer consultas espaciales. 
+ - Aprender la sintaxis básica de **SQL** y la estructura de las bases de datos relacional.
+ - Realizar operaciones comunes en **SQL** que incluyen ordenar, filtrar, calcular valores, agregar, combinar datos y limpiar datos.
+ - Crear una base de datos en **PostgreSQL** y realizar consultas 
+ - Crear una nueva base de datos espaciales en **PostgreSQL** y trabajar con **PostGIS**.
+ - Comprender la diferencia entre consultas de atributos y consultas de geometría.
+ - Trabajar una base de datos de **PostgreSQL** con la interfaz gráfica de usuario (GNU) de **QGIS**.
+ - Crear capas y tablas virtuales en **QGIS** usando  comandos de SQL.
+ - Usar la interfaz de desarollo (IDE) de **Rstudio** para hacer consultas espaciales. 
   
 
 ## Referencias utilizadas:
