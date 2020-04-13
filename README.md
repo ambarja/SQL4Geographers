@@ -1,4 +1,4 @@
-<img alt="SpatialSQL" src="./Img/icon/sp_sql.png" align="right" width = 12%/>
+<img alt="SpatialSQL" src="./Img/icon/sql.png" align="right" width = 12%/>
 
 # Introducción a Spatial SQL 
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
