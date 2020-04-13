@@ -1,3 +1,5 @@
+<img src="../icon/gnu_linux.png" align="right" width = 15% />
+
 # Instalación de softwares en GNU/Linux
 
 #### Autor : <a href= 'https://barja8.github.io/'>Antony Barja</a>
