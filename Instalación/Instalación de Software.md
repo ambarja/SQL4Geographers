@@ -7,15 +7,18 @@ es importante tener las mismas configuraciones y la misma base de datos con la c
 
 Como primeros pasos vamos a proceder a instalar los respectivos softwares: 
 
-* VisualCode
-* PostgreSQL
-* PostGIS
-* Pgadmin 
-* QGIS 
-
+* [**VisualCode**](https://code.visualstudio.com)
+* [**PostgreSQL**](https://www.postgresql.org)
+* [**PostGIS**](https://postgis.net)
+* [**Pgadmin**](https://www.pgadmin.org) 
+* [**QGIS**](https://qgis.org/es/site/) 
 
 # Instalación de PostgreSQL y VisualCode 
 
 # Instalación de 
 # Instalación de **QGIS 3.X**
+
+
+
+
 
