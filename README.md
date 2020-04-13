@@ -1,4 +1,4 @@
-<img alt="SpatialSQL" src="./icon/sp_sql.png" align="right" width = 12%/>
+<img alt="SpatialSQL" src="./Img/icon/sp_sql.png" align="right" width = 12%/>
 
 # Introducción a Spatial SQL 
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
@@ -39,4 +39,4 @@ en la parte inferior encontrarás una serie de referencias alternativas que podr
 - *DataCamp,**Introduction to SQL by Nick Carchedi**,(2019), repositorio de GitHub, https://github.com/datacamp/courses-introduction-to-sql*
   
 
-![](./icon/istat88x31.png)Todos los datos producidos en el presente proyecto se publican bajo [licencia Creative Commons (CC BY 4.0 IT)](https://creativecommons.org/share-your-work/): Es posible reproducir, distribuir, transmitir y adaptar libremente datos,  también con fines comerciales, siempre que se cite la **fuente**.
+![](./Img/icon/istat88x31.png)Todos los datos producidos en el presente proyecto se publican bajo [licencia Creative Commons (CC BY 4.0 IT)](https://creativecommons.org/share-your-work/): Es posible reproducir, distribuir, transmitir y adaptar libremente datos,  también con fines comerciales, siempre que se cite la **fuente**.
