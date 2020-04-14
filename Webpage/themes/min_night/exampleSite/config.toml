@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "min_night"
 description = "Aquí encotrarás todo las bases iniciales acerca de SQL para empezar a trabajar y hacer consultas a las diferentes bases de datos que podrías inplementar"
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Nate Day"
     description = "An easy reading Hugo blog with night-mode."
-    logo = "favicon/android-chrome-192x192.png"
+    logo = "img/favicon/android-chrome-192x192.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#386890" # dark colors do best
