@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+    <h2>{{ .Title }}</h2>
+
+    {{ range (.Paginator 10).Pages }}
+        {{ if eq "Posts" $.Title }}
+           {{partial "list-item-post.html" .}}
+        {{else}}
+            {{ partial "list-item-project" . }}
+        {{end}}
+    {{end}}
+    
+</main>
+
+{{ partial "paginator" . }}
+
+
+{{ partial "footer" . }}

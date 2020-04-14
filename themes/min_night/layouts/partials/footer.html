@@ -1,0 +1,22 @@
+        <footer id = "bigfooter">
+            <div style = "padding:15px;">
+                <p>{{ "Powered by [Hugo](https://gohugo.io). Themed by [min_night](https://github.com/nathancday/min_night)." | markdownify }}
+                </p>
+                <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"
+                title="Creative Commons Attribution 4.0 International license">
+                <i class="fab fa-creative-commons" aria-hidden="true"></i> Attribution 4.0 International license
+                </a>
+            </div>
+        </footer>
+        <!-- Global Site Tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+          gtag('config', '{{ .Site.GoogleAnalytics }}');
+        </script>
+       
+    </body>
+
+</html>
