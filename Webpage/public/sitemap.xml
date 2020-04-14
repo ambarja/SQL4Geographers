@@ -3,156 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/introSQL/project/project1/</loc>
+    <loc>/project/project1/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/project/project2/</loc>
+    <loc>/project/project2/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/project/project3/</loc>
+    <loc>/project/project3/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/project/project4/</loc>
+    <loc>/project/project4/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/2015/07/23/hello-r-markdown/</loc>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/</loc>
+    <loc>/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/2014/09/28/creating-a-new-theme/</loc>
+    <loc>/2014/09/28/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/2014/04/02/hugo-template-primer/</loc>
+    <loc>/2014/04/02/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/2014/04/02/getting-started-with-hugo/</loc>
+    <loc>/2014/04/02/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/template/</loc>
+    <loc>/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/jekyll/</loc>
+    <loc>/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/2014/03/10/migrate-from-jekyll/</loc>
+    <loc>/2014/03/10/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/static-site-generator/</loc>
+    <loc>/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/introSQL/tags/bootstrap/</loc>
+    <loc>/tags/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/css/</loc>
+    <loc>/tags/css/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/highlight-js/</loc>
+    <loc>/tags/highlight-js/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/html/</loc>
+    <loc>/tags/html/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/js/</loc>
+    <loc>/tags/js/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/project/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/responsive/</loc>
+    <loc>/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>/introSQL/tags/syntax-highlighting/</loc>
+    <loc>/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
