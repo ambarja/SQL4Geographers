@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SQL para Geográfos</title>
-    <link>/Webpage/tags/</link>
+    <link>/Webpage/public/tags/</link>
     <description>Recent content in Tags on SQL para Geográfos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/Webpage/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Webpage/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>plot</title>
-      <link>/Webpage/tags/plot/</link>
+      <link>/Webpage/public/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/Webpage/tags/plot/</guid>
+      <guid>/Webpage/public/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/Webpage/tags/r-markdown/</link>
+      <link>/Webpage/public/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/Webpage/tags/r-markdown/</guid>
+      <guid>/Webpage/public/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/Webpage/tags/regression/</link>
+      <link>/Webpage/public/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/Webpage/tags/regression/</guid>
+      <guid>/Webpage/public/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>/Webpage/tags/go/</link>
+      <link>/Webpage/public/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/go/</guid>
+      <guid>/Webpage/public/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/Webpage/tags/golang/</link>
+      <link>/Webpage/public/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/golang/</guid>
+      <guid>/Webpage/public/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/Webpage/tags/hugo/</link>
+      <link>/Webpage/public/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/hugo/</guid>
+      <guid>/Webpage/public/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/Webpage/tags/themes/</link>
+      <link>/Webpage/public/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/themes/</guid>
+      <guid>/Webpage/public/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/Webpage/tags/development/</link>
+      <link>/Webpage/public/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/development/</guid>
+      <guid>/Webpage/public/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template</title>
-      <link>/Webpage/tags/template/</link>
+      <link>/Webpage/public/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/template/</guid>
+      <guid>/Webpage/public/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>/Webpage/tags/jekyll/</link>
+      <link>/Webpage/public/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/jekyll/</guid>
+      <guid>/Webpage/public/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static-site-generator</title>
-      <link>/Webpage/tags/static-site-generator/</link>
+      <link>/Webpage/public/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/static-site-generator/</guid>
+      <guid>/Webpage/public/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>/Webpage/tags/bootstrap/</link>
+      <link>/Webpage/public/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/bootstrap/</guid>
+      <guid>/Webpage/public/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>/Webpage/tags/css/</link>
+      <link>/Webpage/public/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/css/</guid>
+      <guid>/Webpage/public/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight-js</title>
-      <link>/Webpage/tags/highlight-js/</link>
+      <link>/Webpage/public/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/highlight-js/</guid>
+      <guid>/Webpage/public/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/Webpage/tags/html/</link>
+      <link>/Webpage/public/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/html/</guid>
+      <guid>/Webpage/public/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>/Webpage/tags/js/</link>
+      <link>/Webpage/public/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/js/</guid>
+      <guid>/Webpage/public/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>/Webpage/tags/responsive/</link>
+      <link>/Webpage/public/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/responsive/</guid>
+      <guid>/Webpage/public/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax-highlighting</title>
-      <link>/Webpage/tags/syntax-highlighting/</link>
+      <link>/Webpage/public/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/tags/syntax-highlighting/</guid>
+      <guid>/Webpage/public/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     

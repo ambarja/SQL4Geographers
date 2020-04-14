@@ -1,4 +1,4 @@
-baseURL = "Webpage/"
+baseURL = "Webpage/public"
 languageCode = "en-us"
 title = "SQL para Geográfos"
 description = ""
