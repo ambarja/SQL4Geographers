@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>syntax-highlighting on SQL para Geográfos</title>
-    <link>/Webpage/public/tags/syntax-highlighting/</link>
+    <link>/tags/syntax-highlighting/</link>
     <description>Recent content in syntax-highlighting on SQL para Geográfos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/Webpage/public/tags/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/syntax-highlighting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 4</title>
-      <link>/Webpage/public/project/project4/</link>
+      <link>/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Webpage/public/project/project4/</guid>
+      <guid>/project/project4/</guid>
       <description></description>
     </item>
     
