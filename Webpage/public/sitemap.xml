@@ -3,156 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/IntroSQL/Webpage/public/project/project1/</loc>
   </url>
   
   <url>
-    <loc>/project/project2/</loc>
+    <loc>/IntroSQL/Webpage/public/project/project2/</loc>
   </url>
   
   <url>
-    <loc>/project/project3/</loc>
+    <loc>/IntroSQL/Webpage/public/project/project3/</loc>
   </url>
   
   <url>
-    <loc>/project/project4/</loc>
+    <loc>/IntroSQL/Webpage/public/project/project4/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/23/hello-r-markdown/</loc>
+    <loc>/IntroSQL/Webpage/public/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/IntroSQL/Webpage/public/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/IntroSQL/Webpage/public/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/09/28/creating-a-new-theme/</loc>
+    <loc>/IntroSQL/Webpage/public/2014/09/28/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
+    <loc>/IntroSQL/Webpage/public/2014/04/02/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/04/02/getting-started-with-hugo/</loc>
+    <loc>/IntroSQL/Webpage/public/2014/04/02/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/template/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/jekyll/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/03/10/migrate-from-jekyll/</loc>
+    <loc>/IntroSQL/Webpage/public/2014/03/10/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/static-site-generator/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/css/</loc>
   </url>
   
   <url>
-    <loc>/tags/highlight-js/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/highlight-js/</loc>
   </url>
   
   <url>
-    <loc>/tags/html/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/html/</loc>
   </url>
   
   <url>
-    <loc>/tags/js/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/js/</loc>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/IntroSQL/Webpage/public/project/</loc>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>/tags/syntax-highlighting/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
