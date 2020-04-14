@@ -3,156 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/Webpage/project/project1/</loc>
   </url>
   
   <url>
-    <loc>/project/project2/</loc>
+    <loc>/Webpage/project/project2/</loc>
   </url>
   
   <url>
-    <loc>/project/project3/</loc>
+    <loc>/Webpage/project/project3/</loc>
   </url>
   
   <url>
-    <loc>/project/project4/</loc>
+    <loc>/Webpage/project/project4/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/Webpage/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/23/hello-r-markdown/</loc>
+    <loc>/Webpage/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>/Webpage/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/Webpage/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/Webpage/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/Webpage/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/Webpage/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/Webpage/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/Webpage/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/09/28/creating-a-new-theme/</loc>
+    <loc>/Webpage/2014/09/28/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>/Webpage/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/Webpage/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/Webpage/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>/Webpage/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/04/02/hugo-template-primer/</loc>
+    <loc>/Webpage/2014/04/02/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>/Webpage/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/04/02/getting-started-with-hugo/</loc>
+    <loc>/Webpage/2014/04/02/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/template/</loc>
+    <loc>/Webpage/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/jekyll/</loc>
+    <loc>/Webpage/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/03/10/migrate-from-jekyll/</loc>
+    <loc>/Webpage/2014/03/10/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/static-site-generator/</loc>
+    <loc>/Webpage/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>/Webpage/tags/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>/Webpage/tags/css/</loc>
   </url>
   
   <url>
-    <loc>/tags/highlight-js/</loc>
+    <loc>/Webpage/tags/highlight-js/</loc>
   </url>
   
   <url>
-    <loc>/tags/html/</loc>
+    <loc>/Webpage/tags/html/</loc>
   </url>
   
   <url>
-    <loc>/tags/js/</loc>
+    <loc>/Webpage/tags/js/</loc>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/Webpage/project/</loc>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>/Webpage/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>/tags/syntax-highlighting/</loc>
+    <loc>/Webpage/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
