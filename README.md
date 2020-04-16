@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
 
-
 # Autores: 
 - <strong>Antony Barja</strong>.Autor. <a href='https://orcid.org/0000-0001-5921-2858' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
 - <strong> Lesly Bautista </strong>.Contribuidora. <a href='https://orcid.org/0000-0003-3523-8687' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
