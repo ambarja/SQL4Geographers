@@ -9,7 +9,7 @@
 # Autores: 
 - <strong>Antony Barja</strong>.Autor. <a href='https://orcid.org/0000-0001-5921-2858' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
 - <strong> Lesly Bautista </strong>.Contribuidora. <a href='https://orcid.org/0000-0003-3523-8687' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
-- <strong> Deygur Canchari </strong>.Contribuidora. <a href='https://orcid.org/0000-0001-8315-8548' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
+- <strong> Deygur Canchari </strong>.Contribuidor. <a href='https://orcid.org/0000-0001-8315-8548' target='orcid.widget'><img src='https://members.orcid.org/sites/default/files/vector_iD_icon.svg' class='orcid' alt='ORCID' width = 14></a>
 
 Este repositorio ha sido creado con la finalidad de consolidar nuevos aprendizajes y transmitir conocimientos a todos los que esten interesados en intruirse en los conceptos básicos de la sintaxis de **SQL** 
 , está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente en la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado en las consultas de "bases de datos relacional"; finalmente
