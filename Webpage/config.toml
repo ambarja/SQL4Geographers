@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     font = "Mina" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
-    highlightLanguages = ["r", "bash", "go"]
+    highlightLanguages = ["r", "sql", "markdown"]
 
 # adjust these as you see fit
 [[menu.main]]
@@ -49,26 +49,26 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:nathancday@gmail.com"
+    url = "mailto:antony.barja8@gmail.com"
     name = "far fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/NathanCDay"
+    url = "https://github.com/barja8"
     name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/natedayta/"
+    url = "https://twitter.com/AntonyBarja1"
     name = "fab fa-twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/nathan-day-59b48435/"
+    url = "https://www.linkedin.com/in/antonybarja/"
     name = "fab fa-linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/users/5878751/nate"
-    name = "fab fa-stack-overflow"
+    url = "https://www.facebook.com/antony.barjaingaruca"
+    name = "fab fa-facebook"
     weight = 5
