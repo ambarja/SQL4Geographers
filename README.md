@@ -26,7 +26,7 @@ en la parte inferior encontrarás una serie de referencias alternativas que podr
  - Usar la interfaz de desarollo (IDE) de **Rstudio** para hacer consultas espaciales. 
 
 ## PlayList de SQL4Geographers
-<img src="../Img/icon/spotify.png" ><img src="../Img/screenshot/SQL4Geogrpahers.png">
+<img src="../Img/icon/spotify.png" > <img src="../Img/screenshot/SQL4Geogrpahers.png">
 
 ## Referencias utilizadas:
 - *Michele Tobias,**Spatial SQL with SpatiaLite**,(2019),repositorio de GitHub,https://github.com/MicheleTobias/Spatial_SQL*
