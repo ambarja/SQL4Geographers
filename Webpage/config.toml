@@ -26,17 +26,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 # adjust these as you see fit
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "Inicio"
     weight = 1
 
 [[menu.main]]
     url = "/post/"
-    name = "Posts"
+    name = "Sesiones"
     weight = 2
 
 [[menu.main]]
     url = "/project/"
-    name = "Projects"
+    name = "Desafios"
     weight = 3
     
 [[menu.main]]
