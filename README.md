@@ -4,11 +4,9 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/barja8/IntroSQL/commits/master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
-
-# Equipo ✨
-<!-- Contribuidores -->
 [![contribuidores](https://img.shields.io/badge/Contribuidores-03-orange.svg?style=flat-square)](#contributors-)
-<!-- END -->
+
+
 <table>
   <tr>
     <td align="center"><a href="http://barja8.github.io"><img src="https://avatars2.githubusercontent.com/u/23284899?s=460&u=b78fd89176aa09d78bfeab93b57eb19c599a1e9e&v=4" width="100px;" alt=""/><br /><sub><b>Antony Barja</b></sub></a><br /><a href="#maintenance-hamelsmu" title="Maintenance">🐧</a></td>
