@@ -6,11 +6,9 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://creativecommons.org/licenses/)
 
 # Equipo ✨
-
 <!-- Contribuidores -->
 [![contribuidores](https://img.shields.io/badge/Contribuidores-03-orange.svg?style=flat-square)](#contributors-)
 <!-- END -->
-
 <table>
   <tr>
     <td align="center"><a href="http://barja8.github.io"><img src="https://avatars2.githubusercontent.com/u/23284899?s=460&u=b78fd89176aa09d78bfeab93b57eb19c599a1e9e&v=4" width="100px;" alt=""/><br /><sub><b>Antony Barja</b></sub></a><br /><a href="#maintenance-hamelsmu" title="Maintenance">🐧</a></td>
@@ -19,10 +17,9 @@
 
 <td align="center"><a href="https://github.com/deygurc"><img src="https://avatars1.githubusercontent.com/u/56616592?s=460&u=40ebef0d3b932d8663228f9fd028a69034db8f9a&v=4" width="100px;" alt=""/><br /><sub><b>Deygur Canchari</b></sub></a><br /><a ></a>🛰️</td>
 </table>
-Este repositorio ha sido creado con la finalidad de consolidar nuevos aprendizajes y transmitir conocimientos a todos los que esten interesados en intruirse en los conceptos básicos de la sintaxis de **SQL** 
-, está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente en la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado en las consultas de "bases de datos relacional"; finalmente
-en la parte inferior encontrarás una serie de referencias alternativas que podrían complementar tu ruta de aprendizaje.
 
+Este repositorio ha sido creado con la finalidad de consolidar nuevos aprendizajes y transmitir conocimientos a todos los que esten interesados en intruirse en los conceptos básicos de la sintaxis de **SQL**, está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente en la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado en las consultas de "bases de datos relacional"; finalmente
+en la parte inferior encontrarás una serie de referencias alternativas que podrían complementar tu ruta de aprendizaje.
 
 # Objetivos:
  - Aprender la sintaxis básica de **SQL** y la estructura de las bases de datos relacional.
