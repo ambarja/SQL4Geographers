@@ -28,10 +28,7 @@ en la parte inferior encontrarás una serie de referencias alternativas que podr
  - Trabajar una base de datos de **PostgreSQL** con la interfaz gráfica de usuario (GNU) de **QGIS**.
  - Crear capas y tablas virtuales en **QGIS** usando  comandos de SQL.
  - Usar la interfaz de desarollo (IDE) de **Rstudio** para hacer consultas espaciales. 
-
-## PlayList de SQL4Geographers
-<a href="https://open.spotify.com/playlist/3ngl0RhRa3Uq651NrX1VO5?si=7x0iwb0zRcyspRKm5WA0QQ"><img src="./Img/icon/music.png" width="1000"></a>
-
+ 
 ## Referencias utilizadas:
 - *Michele Tobias,**Spatial SQL with SpatiaLite**,(2019),repositorio de GitHub,https://github.com/MicheleTobias/Spatial_SQL*
   
