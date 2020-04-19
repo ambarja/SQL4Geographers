@@ -1,4 +1,4 @@
-baseURL = "/IntroSQL/Webpage/public/"
+baseURL = "IntroSQL/Webpage/public/"
 languageCode = "en-us"
 title = "SQL para Geográfos"
 description = ""
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Nate Day"
     description = "Un espacio dónde encontras las bases iniciales acerca de SQL enfoncado al aspecto espacial"
-    logo = "/favicon/android-chrome-192x192.png"
+    logo = "favicon/android-chrome-192x192.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#386890" # dark colors do best
