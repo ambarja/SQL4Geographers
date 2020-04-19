@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on SQL para Geográfos</title>
+    <link>/tags/sql/</link>
+    <description>Recent content in sql on SQL para Geográfos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instalación de softwares en GNU/LINUX</title>
+      <link>/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</guid>
+      <description>Autor : Antony Barja Un procedimiento indispensable para poder cumplir con todo los objetivos planteados en este repositorio es la instalación de softwares con la cual vamos ir trabajando y resolviendo algunos ejercicios planteados durante las respectivas sesiones, para poder obtener los mismos resultados es importante tener los mismos softwares con las mismas configuraciones y la base de datos con la cual vamos trabajar las diferentes combinaciones de comandos SQL.</description>
+    </item>
+    
+  </channel>
+</rss>
