@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL para Geográfos</title>
-    <link>/</link>
+    <link>/IntroSQL/Webpage/public/</link>
     <description>Recent content on SQL para Geográfos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/IntroSQL/Webpage/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1</title>
-      <link>/project/project1/</link>
+      <link>/IntroSQL/Webpage/public/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/project1/</guid>
+      <guid>/IntroSQL/Webpage/public/project/project1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instalación de softwares en GNU/LINUX</title>
-      <link>/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</link>
+      <link>/IntroSQL/Webpage/public/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</guid>
+      <guid>/IntroSQL/Webpage/public/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</guid>
       <description>Autor : Antony Barja Un procedimiento indispensable para poder cumplir con todo los objetivos planteados en este repositorio es la instalación de softwares con la cual vamos ir trabajando y resolviendo algunos ejercicios planteados durante las respectivas sesiones, para poder obtener los mismos resultados es importante tener los mismos softwares con las mismas configuraciones y la base de datos con la cual vamos trabajar las diferentes combinaciones de comandos SQL.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
+      <link>/IntroSQL/Webpage/public/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <guid>/IntroSQL/Webpage/public/2015/07/23/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/IntroSQL/Webpage/public/project/project1/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</loc>
+    <loc>/IntroSQL/Webpage/public/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/IntroSQL/Webpage/public/post/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/r-markdown/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sql/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/sql/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sql/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/sql/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/IntroSQL/Webpage/public/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/23/hello-r-markdown/</loc>
+    <loc>/IntroSQL/Webpage/public/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gnu/linux/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/gnu/linux/</loc>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/go/</loc>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/golang/</loc>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/IntroSQL/Webpage/public/tags/hugo/</loc>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/IntroSQL/Webpage/public/project/</loc>
   </url>
   
 </urlset>
