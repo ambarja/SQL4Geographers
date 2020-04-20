@@ -3,11 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/IntroSQL/Webpage/public/project/project1/</loc>
+    <loc>/IntroSQL/Webpage/public/categories/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/IntroSQL/Webpage/public/categories/</loc>
+    <loc>/IntroSQL/Webpage/public/project/hola-mundo/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,6 +19,11 @@
   
   <url>
     <loc>/IntroSQL/Webpage/public/post/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/IntroSQL/Webpage/public/project/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -47,43 +53,7 @@
   </url>
   
   <url>
-    <loc>/IntroSQL/Webpage/public/2015/07/23/hello-r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/IntroSQL/Webpage/public/tags/gnu/linux/</loc>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/tags/go/</loc>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/tags/golang/</loc>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/tags/hugo/</loc>
-  </url>
-  
-  <url>
-    <loc>/IntroSQL/Webpage/public/project/</loc>
   </url>
   
 </urlset>
