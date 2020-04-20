@@ -8,8 +8,8 @@
             "type": "image/png"
         },
         {
-            "src": "/static/img/favicon/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "/static/img/favicon/favicon-16x16.png",
+            "sizes": "192x192",
             "type": "image/png"
         }
     ],

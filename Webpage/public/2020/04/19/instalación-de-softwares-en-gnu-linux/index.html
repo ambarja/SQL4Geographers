@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Instalación de softwares en GNU/LINUX</title>
+        <link rel="canonical" href="/IntroSQL/Webpage/public/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/">
+        <style>
+
+    html body {
+        font-family: 'Mina', sans-serif;
+        background-color: #f5f5f5;
+    }
+
+    :root {
+        --accent: #386890;
+        --border-width:  0 ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mina">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=VT323">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/lakeside-light.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="/IntroSQL/Webpage/public/css/main.css">
+
+
+
+
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/sql.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/markdown.min.js"></script>
+    
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+
+
+<script>
+$(document).ready(function(){
+    
+  var input = $('#night-mode-toggle');
+  var container = $('#bigbody');
+  var stat = $('#button-status');
+  
+  container.toggleClass(localStorage.toggled);
+  stat.bootstrapToggle(localStorage.button).change();
+  
+  input.on('click', function() {
+      if (localStorage.toggled != "-nightmode" ) {
+          container.toggleClass("-nightmode", true );
+          localStorage.toggled = "-nightmode";
+          localStorage.button = "on";
+       } else {
+          container.toggleClass("-nightmode", false );
+          localStorage.toggled = "";
+          localStorage.button = "off"
+       }
+  })
+});
+</script>
+ <meta name="generator" content="Hugo 0.69.0" />
+        <link href="" rel="alternate" type="application/rss+xml" title="SQL para Geográfos" />
+        <link href="" rel="feed" type="application/rss+xml" title="SQL para Geográfos" />
+        
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/img/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-config" content="/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    <meta property="og:title" content="Instalación de softwares en GNU/LINUX">
+    <meta property="og:type" content="article">
+      
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:image" content="/IntroSQL/Webpage/public/favicon/android-chrome-192x192.png" >
+      
+    <meta property="description" content="">
+    <meta property="og:description" content="">
+    
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:site" content="">
+    
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body id = "bigbody">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">Instalación de softwares en GNU/LINUX</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/IntroSQL/Webpage/public/">Inicio</a></li>
+                            
+                                <li><a href="/IntroSQL/Webpage/public/post/">Sesiones</a></li>
+                            
+                                <li><a href="/IntroSQL/Webpage/public/project/">Desafios</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:antony.barja8@gmail.com"><i class="far fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/barja8"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/AntonyBarja1"><i class="fab fa-twitter"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/antonybarja/"><i class="fab fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.facebook.com/antony.barjaingaruca"><i class="fab fa-facebook"></i></a></li>
+                            
+                            <li id="night-mode-toggle">
+    <input type="checkbox" id = "button-status"
+        data-toggle="toggle"
+        data-width = "10"
+        data-height = "1"
+        data-on="<i class='far fa-moon fa-lg'></i>"
+        data-off= "<i class='far fa-sun fa-lg'></i>"
+        data-style="ios"
+        data-onstyle = "default">
+</li>
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+      
+    
+
+    <h4><a href="/IntroSQL/Webpage/public/2020/04/19/instalaci%C3%B3n-de-softwares-en-gnu-linux/">Instalación de softwares en GNU/LINUX</a></h4>
+    <h5>April 19, 2020 - 3 minutes</h5>
+    <h5></h5>
+
+    
+
+        <a href="/IntroSQL/Webpage/public/categories/sql">
+        <kbd class="item-cat"> sql </kbd>
+    </a>
+    
+    
+    <a href="/IntroSQL/Webpage/public/tags/sql">
+        <kbd class="item-tag"> sql </kbd>
+    </a>
+    
+    <a href="/IntroSQL/Webpage/public/tags/gnu/linux">
+        <kbd class="item-tag"> GNU/Linux </kbd>
+    </a>
+    
+    <a href="/IntroSQL/Webpage/public/tags/r-markdown">
+        <kbd class="item-tag"> R Markdown </kbd>
+    </a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify"><p><!-- raw HTML omitted --></p>
+<h3 id="autor--a-href-httpsbarja8githubioantony-barjaa">Autor : <!-- raw HTML omitted -->Antony Barja<!-- raw HTML omitted --></h3>
+<p>Un procedimiento indispensable para poder cumplir con todo los objetivos planteados en este repositorio es la instalación de softwares con la cual vamos ir trabajando y resolviendo algunos ejercicios planteados durante las respectivas sesiones,  para poder obtener los mismos resultados
+es importante tener los mismos softwares con las mismas configuraciones y la base de datos con la cual vamos trabajar las diferentes combinaciones de comandos <strong>SQL</strong>.</p>
+<p>Como primeros pasos vamos a proceder a instalar los respectivos softwares:</p>
+<ul>
+<li><a href="https://code.visualstudio.com"><strong>VisualCode</strong></a></li>
+<li><a href="https://www.postgresql.org"><strong>PostgreSQL</strong></a></li>
+<li><a href="https://postgis.net"><strong>PostGIS</strong></a></li>
+<li><a href="https://www.pgadmin.org"><strong>PgAdmin</strong></a></li>
+<li><a href="https://qgis.org/es/site/"><strong>QGIS</strong></a></li>
+</ul>
+<h1 id="visualcode">VisualCode</h1>
+<p>Es un ligero pero poderoso editor de código multiplataforma (Windows, macOS, GNU/Linux) que posee un gran ecosistemas de extensiones para dar soportes a varios tipos de lenguajes de programación y de desarrollo web, entre ellas destaca <strong>Python</strong>, <strong>R</strong>, <strong>Html</strong>, <strong>Css</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong> ,<strong>Go</strong>, entre otros.</p>
+<h1 id="instalación-de-visualcode">Instalación de VisualCode</h1>
+<p>Para poder instalar VisualCode en <strong>GNU/Linux</strong>, primero tenemos que saber la distribución con la cual estamos trabajando, para esto nos dirigimos hacia la consola y editamos el siguiente comando:</p>
+<pre><code>antony$antony:~$ cat /etc/*-release
+</code></pre><pre><code>DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=19.10
+DISTRIB_CODENAME=eoan
+DISTRIB_DESCRIPTION=&quot;Ubuntu 19.10&quot;
+NAME=&quot;Ubuntu&quot;
+VERSION=&quot;19.10 (Eoan Ermine)&quot;
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME=&quot;Ubuntu 19.10&quot;
+VERSION_ID=&quot;19.10&quot;
+HOME_URL=&quot;https://www.ubuntu.com/&quot;
+SUPPORT_URL=&quot;https://help.ubuntu.com/&quot;
+BUG_REPORT_URL=&quot;https://bugs.launchpad.net/ubuntu/&quot;
+PRIVACY_POLICY_URL=&quot;https://www.ubuntu.com/legal/terms-and-policies/privacy-policy&quot;
+VERSION_CODENAME=eoan
+UBUNTU_CODENAME=eoan
+
+</code></pre><p>Una vez identificado el tipo de distribución procedemos a instalar el software mediante los siguientes comandos:</p>
+<pre><code>sudo apt update
+sudo apt install software-properties-common apt-transport-https wget
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+sudo add-apt-repository &quot;deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main&quot;
+sudo apt install code
+</code></pre><p>Finalmente para comprobar que la instalación fue exitosa procedemos iniciar el software cómo se muestra en la siguiente imagen.</p>
+<p><img src="../Img/screenshot/vscode.png" alt=""></p>
+<h1 id="postgresql---postgis">PostgreSQL - PostGIS</h1>
+<p><strong>PostgreSQL</strong> es un potente sistema de gestión de base de datos relacional orientado a objetos de código abierto con más de 30 años de desarrollo activo.</p>
+<p><strong>PostGIS</strong> es un extención PostgreSQL que da soporte al manejo de datos geográficos,y permite que las consultas de ubicación se ejecuten mediante comandos de SQL.</p>
+<h1 id="instalación-de-postgresql-postgis">Instalación de PostgreSQL-PostGIS</h1>
+<p>Para poder instalar PostgreSQL y PostGIS, primero debemos verificar si versión de ambos softwares están disponibles para el tipo de distribución de GNU/Linux que estamos utilizando, para esto puedes encontrar más detalle en el siguiente enlace <a href="https://ubuntu.pkgs.org/19.10/ubuntu-universe-i386/postgresql-11-postgis-2.5-scripts_2.5.3+dfsg-1_all.deb.html">clic aquí</a>.</p>
+<p>Para nuestra distribución de Ubuntu sólo tenemos que emplear los siguientes comandos:</p>
+<pre><code> sudo apt-get update
+ sudo apt-get install postgresql-11-postgis-2.5-scripts
+</code></pre><p>Para verificar que la instación fue correcta procedemos a tipear los siguientes comandos</p>
+<pre><code>psql --version
+</code></pre><pre><code>sudo -i -u postgres
+createuser postgis_test
+createdb postgis_db postgis_test
+psql -d postgis_db
+postgis_db=# CREATE EXTENSION postgis;
+postgis_db=# SELECT PostGIS_version();
+</code></pre><h1 id="pgadmin">PgAdmin</h1>
+<p>Es una plataforma de administración y desarrollo de código abierto para PostgreSQL</p>
+<h1 id="instalación-de-pgadmin">Instalación de PgAdmin</h1>
+<pre><code>sudo apt-get install wget ca-certificates
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
+sudo sh -c 'echo &quot;deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main&quot; &gt;&gt; /etc/apt/sources.list.d/pgdg.list'
+</code></pre><pre><code>sudo apt-get update
+sudo apt install pgadmin4 pgadmin4-apache2
+</code></pre><p><em>Observación: Si olvidas cual es tu password de tu cuenta de postgres con este comando puedes crear una nueva contraseña</em></p>
+<pre><code>sudo passwd postgres
+</code></pre><p>Finalmente para verificar que la instalación fue exitosa procedemos abrir el software</p>
+<p><img src="../Img/screenshot/paso1.png" alt="">
+<img src="../Img/screenshot/paso2.png" alt="">
+<img src="../Img/screenshot/paso3.png" alt=""></p>
+<h1 id="qgis">QGIS</h1>
+<p>Es un software de Sistema de Información Geográfica libre y de codigo abierto orientado al manejo, análisis, edición y representación de datos espaciales.</p>
+<h1 id="instalación-de-qgis-3x">Instalación de <strong>QGIS 3.X</strong></h1>
+<p>La instalación de QGIS va a depender del tipo de distribución GNU/Linux con la cual estamos trabajando, para nuestro caso es <strong>Ubuntu 19.10 eoan</strong>, entonces para instalar <strong>QGIS</strong> sólo debemos emplear los siguientes comandos:</p>
+<pre><code>sudo nano /etc/apt/sources.list
+</code></pre><pre><code>deb     https://qgis.org/ubuntu eoan main
+deb-src https://qgis.org/ubuntu eoan main
+</code></pre><pre><code>wget -O - https://qgis.org/downloads/qgis-2019.gpg.key | gpg --import
+gpg --fingerprint 51F523511C7028C3
+gpg  - exportar  - armadura  51 F523511C7028C3  |  sudo  apt - key  add  -
+</code></pre><pre><code>sudo apt-get update
+sudo apt-get install qgis qgis-plugin-grass
+sudo apt install saga 
+</code></pre><p>Para verificar que la instalación fue exitosa procedemos a iniciar QGIS
+<img src="../Img/screenshot/qgis.png" alt=""></p>
+</div>
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+</main>
+
+        <footer id = "bigfooter">
+            <div style = "padding:15px;">
+                <p>Powered by <a href="https://gohugo.io">Hugo</a>. Themed by <a href="https://github.com/nathancday/min_night">min_night</a>.
+                </p>
+                <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"
+                title="Creative Commons Attribution 4.0 International license">
+                <i class="fab fa-creative-commons" aria-hidden="true"></i> Attribution 4.0 International license
+                </a>
+            </div>
+        </footer>
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+          gtag('config', '');
+        </script>
+       
+    </body>
+
+</html>
+
