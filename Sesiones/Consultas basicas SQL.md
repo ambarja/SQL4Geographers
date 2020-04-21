@@ -5,4 +5,4 @@
 recomiendo que instales una extensión que te ayudará a visualizar los formatos en la que estás trabajando.
 
 ```
-![img src](../Img/screenshot/icono.png)
+![img src](../Img/screenshot/iconos.png)
