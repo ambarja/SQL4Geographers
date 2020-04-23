@@ -5,11 +5,13 @@
 recomiendo que instales una extensión que te ayudará a visualizar los formatos en la que estás trabajando mediante un ícono.
 
 ```
-![img src](../Img/screenshot/iconos.png)
 
-para realizar ciertas consultas en SQL se utiliza ciertos comandos de una base de datos
+![img src ](../Img/screenshot/iconos.png)
 
- ### Consultas basicas
+para realizar ciertas consultas en SQL se utiliza ciertos comandos de una base de datos.
+
+#### Base de Datos: es una colección de datos, donde los datos ya toman sentido.
+### Consultas basicas
 La sintaxis basica de una consulta de seleccion es la siguiente:
 
 SELECT Campos FROM Tabla;En donde campos es la lista de campos que se deseen recuperar y tabla es e1 
