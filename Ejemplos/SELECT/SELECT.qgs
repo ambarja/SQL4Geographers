@@ -1,0 +1,678 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="3.12.2-București" saveUser="barja" saveUserFull="antony">
+    <homePath path=""/>
+    <title/>
+    <autotransaction active="0"/>
+    <evaluateDefaultValues active="0"/>
+    <trust active="0"/>
+    <projectCrs>
+        <spatialrefsys>
+            <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
+            <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+            <srsid>3452</srsid>
+            <srid>4326</srid>
+            <authid>EPSG:4326</authid>
+            <description>WGS 84</description>
+            <projectionacronym>longlat</projectionacronym>
+            <ellipsoidacronym>WGS84</ellipsoidacronym>
+            <geographicflag>true</geographicflag>
+        </spatialrefsys>
+    </projectCrs>
+    <layer-tree-group>
+        <customproperties/>
+        <layer-tree-layer source="?layer=ogr:%2Fhome%2Fbarja%2FDocumentos%2FSELECT%2FSHP%2FMaterialTEcho.shp:capa1:UTF-8&amp;query=SELECT%20Tejas,%20DEPARTAMEN%0AFROM%20MaterialTEcho;%0A%0A%0A%0A%0A" id="virtual_layer_2e389eb4_4747_4c0c_a3b2_ce523c63a934" checked="Qt::Checked" name="virtual_layer" legend_exp="" providerKey="virtual" expanded="1">
+            <customproperties/>
+        </layer-tree-layer>
+        <layer-tree-layer source="../../../../SELECT/SHP/MaterialTEcho.shp|layername=MaterialTEcho" id="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70" checked="Qt::Unchecked" name="MaterialTEcho" legend_exp="" providerKey="ogr" expanded="1">
+            <customproperties/>
+        </layer-tree-layer>
+        <custom-order enabled="0">
+            <item>MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70</item>
+            <item>virtual_layer_2e389eb4_4747_4c0c_a3b2_ce523c63a934</item>
+        </custom-order>
+    </layer-tree-group>
+    <snapping-settings intersection-snapping="0" enabled="0" tolerance="12" type="1" unit="1" mode="2">
+        <individual-layer-settings>
+            <layer-setting units="1" enabled="0" tolerance="12" id="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70" type="1"/>
+        </individual-layer-settings>
+    </snapping-settings>
+    <relations/>
+    <mapcanvas annotationsVisible="1" name="theMapCanvas">
+        <units>degrees</units>
+        <extent>
+            <xmin>-81.64512927467490044</xmin>
+            <ymin>-18.80873578019990333</ymin>
+            <xmax>-68.33538031832466686</xmax>
+            <ymax>0.4192020762000368</ymax>
+        </extent>
+        <rotation>0</rotation>
+        <destinationsrs>
+            <spatialrefsys>
+                <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
+                <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+                <srsid>3452</srsid>
+                <srid>4326</srid>
+                <authid>EPSG:4326</authid>
+                <description>WGS 84</description>
+                <projectionacronym>longlat</projectionacronym>
+                <ellipsoidacronym>WGS84</ellipsoidacronym>
+                <geographicflag>true</geographicflag>
+            </spatialrefsys>
+        </destinationsrs>
+        <rendermaptile>0</rendermaptile>
+        <expressionContextScope/>
+    </mapcanvas>
+    <DataPlotly>
+        <Option type="Map">
+            <Option type="Map" name="dynamic_properties">
+                <Option value="" type="QString" name="name"/>
+                <Option name="properties"/>
+                <Option value="collection" type="QString" name="type"/>
+            </Option>
+            <Option type="Map" name="plot_layout">
+                <Option value="" type="QString" name="additional_info_expression"/>
+                <Option value="group" type="QString" name="bar_mode"/>
+                <Option value="0" type="double" name="bargaps"/>
+                <Option value="false" type="bool" name="bins_check"/>
+                <Option value="true" type="bool" name="legend"/>
+                <Option value="v" type="QString" name="legend_orientation"/>
+                <Option type="invalid" name="legend_title"/>
+                <Option type="Map" name="polar">
+                    <Option type="Map" name="angularaxis">
+                        <Option value="clockwise" type="QString" name="direction"/>
+                    </Option>
+                </Option>
+                <Option type="Map" name="range_slider">
+                    <Option value="1" type="int" name="borderwidth"/>
+                    <Option value="false" type="bool" name="visible"/>
+                </Option>
+                <Option value="" type="QString" name="title"/>
+                <Option type="invalid" name="x_inv"/>
+                <Option type="invalid" name="x_max"/>
+                <Option type="invalid" name="x_min"/>
+                <Option value="" type="QString" name="x_title"/>
+                <Option value="linear" type="QString" name="x_type"/>
+                <Option type="invalid" name="xaxis"/>
+                <Option type="invalid" name="y_inv"/>
+                <Option type="invalid" name="y_max"/>
+                <Option type="invalid" name="y_min"/>
+                <Option value="" type="QString" name="y_title"/>
+                <Option value="linear" type="QString" name="y_type"/>
+                <Option value="" type="QString" name="z_title"/>
+            </Option>
+            <Option type="Map" name="plot_properties">
+                <Option type="invalid" name="additional_hover_text"/>
+                <Option value="10" type="int" name="bins"/>
+                <Option value="v" type="QString" name="box_orientation"/>
+                <Option value="false" type="bool" name="box_outliers"/>
+                <Option value="false" type="bool" name="box_stat"/>
+                <Option value="Greys" type="QString" name="color_scale"/>
+                <Option value="false" type="bool" name="color_scale_data_defined_in_check"/>
+                <Option value="false" type="bool" name="color_scale_data_defined_in_invert_check"/>
+                <Option value="fill" type="QString" name="cont_type"/>
+                <Option value="Relleno" type="QString" name="contour_type_combo"/>
+                <Option value="false" type="bool" name="cumulative"/>
+                <Option type="List" name="custom">
+                    <Option value="" type="QString"/>
+                </Option>
+                <Option value="auto" type="QString" name="hover_label_position"/>
+                <Option type="invalid" name="hover_label_text"/>
+                <Option value="all" type="QString" name="hover_text"/>
+                <Option value="#8ebad9" type="QString" name="in_color"/>
+                <Option value="false" type="bool" name="invert_color_scale"/>
+                <Option value="increasing" type="QString" name="invert_hist"/>
+                <Option value="Línea Sólida" type="QString" name="line_combo"/>
+                <Option value="solid" type="QString" name="line_dash"/>
+                <Option value="markers" type="QString" name="marker"/>
+                <Option value="10" type="double" name="marker_size"/>
+                <Option value="0" type="int" name="marker_symbol"/>
+                <Option value="Puntos" type="QString" name="marker_type_combo"/>
+                <Option value="1" type="double" name="marker_width"/>
+                <Option value="" type="QString" name="name"/>
+                <Option value="" type="QString" name="normalization"/>
+                <Option value="1" type="double" name="opacity"/>
+                <Option value="#1f77b4" type="QString" name="out_color"/>
+                <Option value="" type="QString" name="point_combo"/>
+                <Option value="false" type="bool" name="selected_features_only"/>
+                <Option value="false" type="bool" name="show_colorscale_legend"/>
+                <Option value="true" type="bool" name="show_lines"/>
+                <Option value="true" type="bool" name="show_lines_check"/>
+                <Option value="true" type="bool" name="show_mean_line"/>
+                <Option value="true" type="bool" name="violin_box"/>
+                <Option value="both" type="QString" name="violin_side"/>
+                <Option value="false" type="bool" name="visible_features_only"/>
+                <Option value="" type="QString" name="x_name"/>
+                <Option value="" type="QString" name="y_name"/>
+                <Option value="" type="QString" name="z_name"/>
+            </Option>
+            <Option value="scatter" type="QString" name="plot_type"/>
+            <Option value="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70" type="QString" name="source_layer_id"/>
+        </Option>
+    </DataPlotly>
+    <projectModels/>
+    <legend updateDrawingOrder="true">
+        <legendlayer drawingOrder="-1" showFeatureCount="0" checked="Qt::Checked" name="virtual_layer" open="true">
+            <filegroup hidden="false" open="true">
+                <legendlayerfile visible="1" isInOverview="0" layerid="virtual_layer_2e389eb4_4747_4c0c_a3b2_ce523c63a934"/>
+            </filegroup>
+        </legendlayer>
+        <legendlayer drawingOrder="-1" showFeatureCount="0" checked="Qt::Unchecked" name="MaterialTEcho" open="true">
+            <filegroup hidden="false" open="true">
+                <legendlayerfile visible="0" isInOverview="0" layerid="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70"/>
+            </filegroup>
+        </legendlayer>
+    </legend>
+    <mapViewDocks/>
+    <mapViewDocks3D/>
+    <projectlayers>
+        <maplayer hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" simplifyDrawingHints="1" refreshOnNotifyMessage="" type="vector" geometry="Polygon" labelsEnabled="0" simplifyLocal="1" autoRefreshEnabled="0" maxScale="0" readOnly="0" simplifyAlgorithm="0" wkbType="MultiPolygon" simplifyDrawingTol="1" minScale="100000000" autoRefreshTime="0" simplifyMaxScale="1">
+            <extent>
+                <xmin>-81.32823048999989624</xmin>
+                <ymin>-18.35092773599990323</ymin>
+                <xmax>-68.65227910299967107</xmax>
+                <ymax>-0.03860596799995619</ymax>
+            </extent>
+            <id>MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70</id>
+            <datasource>./layers/MaterialTEcho.gpkg</datasource>
+            <keywordList>
+                <value/>
+            </keywordList>
+            <layername>MaterialTEcho</layername>
+            <srs>
+                <spatialrefsys>
+                    <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
+                    <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+                    <srsid>3452</srsid>
+                    <srid>4326</srid>
+                    <authid>EPSG:4326</authid>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>true</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <resourceMetadata>
+                <identifier/>
+                <parentidentifier/>
+                <language/>
+                <type>dataset</type>
+                <title/>
+                <abstract/>
+                <links/>
+                <fees/>
+                <encoding/>
+                <crs>
+                    <spatialrefsys>
+                        <wkt/>
+                        <proj4/>
+                        <srsid>0</srsid>
+                        <srid>0</srid>
+                        <authid/>
+                        <description/>
+                        <projectionacronym/>
+                        <ellipsoidacronym/>
+                        <geographicflag>false</geographicflag>
+                    </spatialrefsys>
+                </crs>
+                <extent/>
+            </resourceMetadata>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <layerDependencies/>
+            <dataDependencies/>
+            <legend type="default-vector"/>
+            <expressionfields/>
+            <map-layer-style-manager current="predeterminado">
+                <map-layer-style name="predeterminado"/>
+            </map-layer-style-manager>
+            <auxiliaryLayer/>
+            <flags>
+                <Identifiable>1</Identifiable>
+                <Removable>1</Removable>
+                <Searchable>1</Searchable>
+            </flags>
+            <renderer-v2 enableorderby="0" type="singleSymbol" forceraster="0" symbollevels="0">
+                <symbols>
+                    <symbol clip_to_extent="1" force_rhr="0" type="fill" name="0" alpha="1">
+                        <layer pass="0" enabled="1" class="SimpleFill" locked="0">
+                            <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                            <prop k="color" v="125,139,143,255"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="outline_color" v="35,35,35,255"/>
+                            <prop k="outline_style" v="solid"/>
+                            <prop k="outline_width" v="0.26"/>
+                            <prop k="outline_width_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <data_defined_properties>
+                                <Option type="Map">
+                                    <Option value="" type="QString" name="name"/>
+                                    <Option name="properties"/>
+                                    <Option value="collection" type="QString" name="type"/>
+                                </Option>
+                            </data_defined_properties>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation/>
+                <sizescale/>
+            </renderer-v2>
+            <customproperties>
+                <property key="dualview/previewExpressions">
+                    <value>"IDDPTO"</value>
+                </property>
+            </customproperties>
+            <blendMode>0</blendMode>
+            <featureBlendMode>0</featureBlendMode>
+            <layerOpacity>1</layerOpacity>
+            <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+                <activeChecks type="StringList">
+                    <Option value="" type="QString"/>
+                </activeChecks>
+                <checkConfiguration/>
+            </geometryOptions>
+            <referencedLayers/>
+            <referencingLayers/>
+            <fieldConfiguration>
+                <field name="IDDPTO">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="DEPARTAMEN">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="IDPROV">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="PROVINCIA">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="IDDIST">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="DISTRITO">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="CAPITAL">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="CODCCPP">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="AREA">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="FUENTE">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="Madera">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="Tejas">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+            </fieldConfiguration>
+            <aliases>
+                <alias index="0" field="IDDPTO" name=""/>
+                <alias index="1" field="DEPARTAMEN" name=""/>
+                <alias index="2" field="IDPROV" name=""/>
+                <alias index="3" field="PROVINCIA" name=""/>
+                <alias index="4" field="IDDIST" name=""/>
+                <alias index="5" field="DISTRITO" name=""/>
+                <alias index="6" field="CAPITAL" name=""/>
+                <alias index="7" field="CODCCPP" name=""/>
+                <alias index="8" field="AREA" name=""/>
+                <alias index="9" field="FUENTE" name=""/>
+                <alias index="10" field="Madera" name=""/>
+                <alias index="11" field="Tejas" name=""/>
+            </aliases>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <defaults>
+                <default expression="" applyOnUpdate="0" field="IDDPTO"/>
+                <default expression="" applyOnUpdate="0" field="DEPARTAMEN"/>
+                <default expression="" applyOnUpdate="0" field="IDPROV"/>
+                <default expression="" applyOnUpdate="0" field="PROVINCIA"/>
+                <default expression="" applyOnUpdate="0" field="IDDIST"/>
+                <default expression="" applyOnUpdate="0" field="DISTRITO"/>
+                <default expression="" applyOnUpdate="0" field="CAPITAL"/>
+                <default expression="" applyOnUpdate="0" field="CODCCPP"/>
+                <default expression="" applyOnUpdate="0" field="AREA"/>
+                <default expression="" applyOnUpdate="0" field="FUENTE"/>
+                <default expression="" applyOnUpdate="0" field="Madera"/>
+                <default expression="" applyOnUpdate="0" field="Tejas"/>
+            </defaults>
+            <constraints>
+                <constraint notnull_strength="0" field="IDDPTO" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="DEPARTAMEN" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="IDPROV" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="PROVINCIA" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="IDDIST" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="DISTRITO" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="CAPITAL" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="CODCCPP" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="AREA" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="FUENTE" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="Madera" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="Tejas" exp_strength="0" constraints="0" unique_strength="0"/>
+            </constraints>
+            <constraintExpressions>
+                <constraint desc="" field="IDDPTO" exp=""/>
+                <constraint desc="" field="DEPARTAMEN" exp=""/>
+                <constraint desc="" field="IDPROV" exp=""/>
+                <constraint desc="" field="PROVINCIA" exp=""/>
+                <constraint desc="" field="IDDIST" exp=""/>
+                <constraint desc="" field="DISTRITO" exp=""/>
+                <constraint desc="" field="CAPITAL" exp=""/>
+                <constraint desc="" field="CODCCPP" exp=""/>
+                <constraint desc="" field="AREA" exp=""/>
+                <constraint desc="" field="FUENTE" exp=""/>
+                <constraint desc="" field="Madera" exp=""/>
+                <constraint desc="" field="Tejas" exp=""/>
+            </constraintExpressions>
+            <expressionfields/>
+            <attributeactions>
+                <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+            </attributeactions>
+            <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;DEPARTAMEN&quot;" sortOrder="0">
+                <columns>
+                    <column hidden="0" width="-1" type="field" name="IDDPTO"/>
+                    <column hidden="0" width="-1" type="field" name="DEPARTAMEN"/>
+                    <column hidden="0" width="-1" type="field" name="IDPROV"/>
+                    <column hidden="0" width="-1" type="field" name="PROVINCIA"/>
+                    <column hidden="0" width="-1" type="field" name="IDDIST"/>
+                    <column hidden="0" width="-1" type="field" name="DISTRITO"/>
+                    <column hidden="0" width="-1" type="field" name="CAPITAL"/>
+                    <column hidden="0" width="-1" type="field" name="CODCCPP"/>
+                    <column hidden="0" width="-1" type="field" name="AREA"/>
+                    <column hidden="0" width="-1" type="field" name="FUENTE"/>
+                    <column hidden="0" width="-1" type="field" name="Madera"/>
+                    <column hidden="0" width="-1" type="field" name="Tejas"/>
+                    <column hidden="1" width="-1" type="actions"/>
+                </columns>
+            </attributetableconfig>
+            <conditionalstyles>
+                <rowstyles/>
+                <fieldstyles/>
+            </conditionalstyles>
+            <storedexpressions/>
+            <editform tolerant="1"/>
+            <editforminit/>
+            <editforminitcodesource>0</editforminitcodesource>
+            <editforminitfilepath/>
+            <editforminitcode><![CDATA[]]></editforminitcode>
+            <featformsuppress>0</featformsuppress>
+            <editorlayout>generatedlayout</editorlayout>
+            <editable/>
+            <labelOnTop/>
+            <widgets/>
+            <previewExpression>"IDDPTO"</previewExpression>
+            <mapTip/>
+        </maplayer>
+        <maplayer autoRefreshTime="0" readOnly="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" styleCategories="AllStyleCategories" type="vector" geometry="Unknown geometry" wkbType="Unknown" autoRefreshEnabled="0" refreshOnNotifyMessage="" maxScale="0" minScale="1e+08">
+            <id>virtual_layer_2e389eb4_4747_4c0c_a3b2_ce523c63a934</id>
+            <datasource>./layers/virtual_layer.gpkg</datasource>
+            <keywordList>
+                <value/>
+            </keywordList>
+            <layername>virtual_layer</layername>
+            <srs>
+                <spatialrefsys>
+                    <wkt/>
+                    <proj4/>
+                    <srsid>0</srsid>
+                    <srid>0</srid>
+                    <authid/>
+                    <description/>
+                    <projectionacronym/>
+                    <ellipsoidacronym/>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <resourceMetadata>
+                <identifier/>
+                <parentidentifier/>
+                <language/>
+                <type/>
+                <title/>
+                <abstract/>
+                <links/>
+                <fees/>
+                <encoding/>
+                <crs>
+                    <spatialrefsys>
+                        <wkt/>
+                        <proj4/>
+                        <srsid>0</srsid>
+                        <srid>0</srid>
+                        <authid/>
+                        <description/>
+                        <projectionacronym/>
+                        <ellipsoidacronym/>
+                        <geographicflag>false</geographicflag>
+                    </spatialrefsys>
+                </crs>
+                <extent/>
+            </resourceMetadata>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <layerDependencies>
+                <layer id="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70"/>
+            </layerDependencies>
+            <dataDependencies/>
+            <legend type="default-vector"/>
+            <expressionfields/>
+            <map-layer-style-manager current="predeterminado">
+                <map-layer-style name="predeterminado"/>
+            </map-layer-style-manager>
+            <auxiliaryLayer/>
+            <flags>
+                <Identifiable>1</Identifiable>
+                <Removable>1</Removable>
+                <Searchable>1</Searchable>
+            </flags>
+            <customproperties>
+                <property key="dualview/previewExpressions">
+                    <value>"DEPARTAMEN"</value>
+                </property>
+            </customproperties>
+            <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+                <activeChecks type="StringList">
+                    <Option value="" type="QString"/>
+                </activeChecks>
+                <checkConfiguration/>
+            </geometryOptions>
+            <referencedLayers/>
+            <referencingLayers/>
+            <fieldConfiguration>
+                <field name="Tejas">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+                <field name="DEPARTAMEN">
+                    <editWidget type="">
+                        <config>
+                            <Option/>
+                        </config>
+                    </editWidget>
+                </field>
+            </fieldConfiguration>
+            <aliases>
+                <alias index="0" field="Tejas" name=""/>
+                <alias index="1" field="DEPARTAMEN" name=""/>
+            </aliases>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <defaults>
+                <default expression="" applyOnUpdate="0" field="Tejas"/>
+                <default expression="" applyOnUpdate="0" field="DEPARTAMEN"/>
+            </defaults>
+            <constraints>
+                <constraint notnull_strength="0" field="Tejas" exp_strength="0" constraints="0" unique_strength="0"/>
+                <constraint notnull_strength="0" field="DEPARTAMEN" exp_strength="0" constraints="0" unique_strength="0"/>
+            </constraints>
+            <constraintExpressions>
+                <constraint desc="" field="Tejas" exp=""/>
+                <constraint desc="" field="DEPARTAMEN" exp=""/>
+            </constraintExpressions>
+            <expressionfields/>
+            <attributeactions>
+                <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+            </attributeactions>
+            <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;DEPARTAMEN&quot;" sortOrder="0">
+                <columns>
+                    <column hidden="1" width="-1" type="actions"/>
+                    <column hidden="0" width="-1" type="field" name="Tejas"/>
+                    <column hidden="0" width="-1" type="field" name="DEPARTAMEN"/>
+                </columns>
+            </attributetableconfig>
+            <conditionalstyles>
+                <rowstyles/>
+                <fieldstyles/>
+            </conditionalstyles>
+            <storedexpressions/>
+            <editform tolerant="1"/>
+            <editforminit/>
+            <editforminitcodesource>0</editforminitcodesource>
+            <editforminitfilepath/>
+            <editforminitcode><![CDATA[]]></editforminitcode>
+            <featformsuppress>0</featformsuppress>
+            <editorlayout>generatedlayout</editorlayout>
+            <editable/>
+            <labelOnTop/>
+            <widgets/>
+            <previewExpression>"DEPARTAMEN"</previewExpression>
+            <mapTip/>
+        </maplayer>
+    </projectlayers>
+    <layerorder>
+        <layer id="MaterialTEcho_be4ff8fd_aecb_4095_aea0_5f1f3007fd70"/>
+        <layer id="virtual_layer_2e389eb4_4747_4c0c_a3b2_ce523c63a934"/>
+    </layerorder>
+    <properties>
+        <Gui>
+            <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+            <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+            <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+            <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+            <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+            <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+            <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+        </Gui>
+        <Legend>
+            <filterByMap type="bool">false</filterByMap>
+        </Legend>
+        <Measure>
+            <Ellipsoid type="QString">WGS84</Ellipsoid>
+        </Measure>
+        <Measurement>
+            <AreaUnits type="QString">m2</AreaUnits>
+            <DistanceUnits type="QString">meters</DistanceUnits>
+        </Measurement>
+        <PAL>
+            <CandidatesLinePerCM type="double">5</CandidatesLinePerCM>
+            <CandidatesPolygonPerCM type="double">2.5</CandidatesPolygonPerCM>
+            <DrawRectOnly type="bool">false</DrawRectOnly>
+            <DrawUnplaced type="bool">false</DrawUnplaced>
+            <PlacementEngineVersion type="int">1</PlacementEngineVersion>
+            <SearchMethod type="int">0</SearchMethod>
+            <ShowingAllLabels type="bool">false</ShowingAllLabels>
+            <ShowingCandidates type="bool">false</ShowingCandidates>
+            <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+            <TextFormat type="int">0</TextFormat>
+            <UnplacedColor type="QString">255,0,0,255</UnplacedColor>
+        </PAL>
+        <Paths>
+            <Absolute type="bool">false</Absolute>
+        </Paths>
+        <PositionPrecision>
+            <Automatic type="bool">true</Automatic>
+            <DecimalPlaces type="int">2</DecimalPlaces>
+        </PositionPrecision>
+    </properties>
+    <visibility-presets/>
+    <transformContext/>
+    <projectMetadata>
+        <identifier/>
+        <parentidentifier/>
+        <language/>
+        <type/>
+        <title/>
+        <abstract/>
+        <links/>
+        <author>antony</author>
+        <creation>2020-04-26T00:21:12</creation>
+    </projectMetadata>
+    <Annotations/>
+    <Layouts/>
+    <Bookmarks/>
+    <ProjectViewSettings UseProjectScales="0">
+        <Scales/>
+    </ProjectViewSettings>
+    <ProjectDisplaySettings>
+        <BearingFormat id="bearing">
+            <Option type="Map">
+                <Option value="" type="QChar" name="decimal_separator"/>
+                <Option value="6" type="int" name="decimals"/>
+                <Option value="0" type="int" name="direction_format"/>
+                <Option value="0" type="int" name="rounding_type"/>
+                <Option value="false" type="bool" name="show_plus"/>
+                <Option value="true" type="bool" name="show_thousand_separator"/>
+                <Option value="false" type="bool" name="show_trailing_zeros"/>
+                <Option value="" type="QChar" name="thousand_separator"/>
+            </Option>
+        </BearingFormat>
+    </ProjectDisplaySettings>
+</qgis>
