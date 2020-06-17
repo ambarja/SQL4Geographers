@@ -6,6 +6,10 @@ SELECT 'SQL is cool <3!'
 CREATE EXTENSION postgis;
 CREATE EXTENSION postgis_topology;
 
+----- VERSIÓN DE POSTGIS INSTALADA ------
+
+SELECT version(), postgis_version(), postgis_full_version();
+
 ----- VISUALIZANDO LOS CODIGOS EPSG -----
 SELECT * 
  FROM spatial_ref_sys 
@@ -64,5 +68,5 @@ SELECT *
 
 ---- CREADO UN CAMPO DE ESPACIAL -----------
 SELECT st_setsrid(st_geomfromewkt(geom),4326) as wtk 
- FROM geometrias; 
+ FROM geometrias;
 	
