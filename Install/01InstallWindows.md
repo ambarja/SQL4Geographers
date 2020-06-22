@@ -1,4 +1,4 @@
-## Instalación de PostgreSQL with PostGIS in operative system windows
+## Instalación de PostgreSQL con PostGIS en Windows
 
     1.Dirigirse a la página principal: <https://www.postgresql.org/>
     2.Darle click en *download*
