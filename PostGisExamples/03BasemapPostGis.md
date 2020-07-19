@@ -5,12 +5,12 @@
     la capa 'puntos', especificando alguna característica
     en este caso la 'región'.
 
-<img alt="03BasemapPostGis-12_st_asewkt_SRID.jpg" src="assets/03BasemapPostGis-12_st_asewkt_SRID.jpg" width="" height="" >
+<img alt="03BasemapPostGis-12_st_asewkt_SRID.jpg" src="assets/03BasemapPostGis-12_st_asewkt_SRID.jpg" width="200" height="200" >
 
 
     2.Convertiremos en una nueva geometría según
     la requerida, en nuestro caso el EPSG:4326.
-<img alt="03BasemapPostGis-13_st_transform_4326.jpg" src="assets/03BasemapPostGis-13_st_transform_4326.jpg" width="" height="" >       
+<img alt="03BasemapPostGis-13_st_transform_4326.jpg" src="assets/03BasemapPostGis-13_st_transform_4326.jpg" width="200" height="200" >       
 
     3.Actualizamos el archivo en Qgis, y lo volvemos a
     cargar en la base como shape denominado 'puntos2'
@@ -21,11 +21,11 @@
 
     4.Llevar el shape a la base de datos!
 
-   <img alt="03BasemapPostGis-16_puntos2_base.jpg" src="assets/03BasemapPostGis-16_puntos2_base.jpg" width="" height="" >
+   <img alt="03BasemapPostGis-16_puntos2_base.jpg" src="assets/03BasemapPostGis-16_puntos2_base.jpg" width="200" height="200" >
 
 
     5.Actualizar tabla en PostgreSQL  y ver tabla Puntos2.
-<img alt="03BasemapPostGis-17_basemap_yuhu.jpg" src="assets/03BasemapPostGis-17_basemap_yuhu.jpg" width="" height="" >
+<img alt="03BasemapPostGis-17_basemap_yuhu.jpg" src="assets/03BasemapPostGis-17_basemap_yuhu.jpg" width="200" height="200" >
 
 
 *Este es uno de los modos, usando Qgis!*
