@@ -18,6 +18,10 @@
 <td align="center"><a href="https://www.facebook.com/agavetuberosa"><img src="https://avatars2.githubusercontent.com/u/19366793?s=460&u=a132583cc6977caaa01a99b3ddf43205f19482a3&v=4" width="100px;" alt=""/><br /><sub><b>Diana Mogrovejo</b></sub></a><br /><a ></a></td>
 </table>
 
+<td align="center"><a href=https://github.com/MelvinREGeo8><img src=https://avatars2.githubusercontent.com/u/59129608?s=460&u=059dc3bbe89ab47415c60cc66aeb12d6c956f8fd&v=4 width="100px;" alt=""/><br /><sub><b>Melvin Rodriguez</b></sub></a><br /><a ></a></td>
+</table>
+
+
 Este repositorio ha sido creado con la finalidad de consolidar nuevos aprendizajes y transmitir conocimientos a todos los que esten interesados en intruirse en los conceptos básicos de la sintaxis de **SQL**, está misma es compartida por muchos tipos de bases de datos, como **PostgreSQL**, **MySQL**, **SQLite**, **SQL Server** y **Oracle**; algunos de ellos enfocado especialmente en la gestión de bases de datos espaciales, aquí encontrarás todo lo necesario para comenzar una nueva aventura de amaestramiento enfocado en las consultas de "bases de datos relacional"; finalmente
 en la parte inferior encontrarás una serie de referencias alternativas que podrían complementar tu ruta de aprendizaje.
 
