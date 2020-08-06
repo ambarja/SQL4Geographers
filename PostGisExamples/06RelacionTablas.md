@@ -1,4 +1,4 @@
-## Relacionando tablas
+## Relacionando tablas con PostGIS!
 
     1.En nuestro caso estamos en proceso de crear diferentes tablas
     con información espacial. Para empezar a relacionar tablas,
